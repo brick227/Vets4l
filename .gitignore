@@ -1,0 +1,8 @@
+# Internal only: V4L ownership details for the CMMC dashboard. Never publish.
+cmmc/internal.js
+
+# Local tooling and OS files
+.claude/
+.DS_Store
+Thumbs.db
+*.testhold
